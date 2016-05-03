@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/group10/!svn/ver/34/VoidSpace2/src/rbadia/voidspace/sounds
+END
+newLevel2.wav
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/group10/!svn/ver/74/VoidSpace2/src/rbadia/voidspace/sounds/newLevel2.wav
+END
+Powerup3.wav
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/group10/!svn/ver/74/VoidSpace2/src/rbadia/voidspace/sounds/Powerup3.wav
+END
+gameOver.wav
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/group10/!svn/ver/74/VoidSpace2/src/rbadia/voidspace/sounds/gameOver.wav
+END
+shipExplosion1.wav
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/group10/!svn/ver/74/VoidSpace2/src/rbadia/voidspace/sounds/shipExplosion1.wav
+END
+laser.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/group10/!svn/ver/68/VoidSpace2/src/rbadia/voidspace/sounds/laser.wav
+END
+end.wav
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/group10/!svn/ver/74/VoidSpace2/src/rbadia/voidspace/sounds/end.wav
+END
+SoundManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/group10/!svn/ver/76/VoidSpace2/src/rbadia/voidspace/sounds/SoundManager.java
+END
+laser1.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/group10/!svn/ver/68/VoidSpace2/src/rbadia/voidspace/sounds/laser1.wav
+END
+ThrusterSound.wav
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/group10/!svn/ver/68/VoidSpace2/src/rbadia/voidspace/sounds/ThrusterSound.wav
+END
+asteroidExplosion2.wav
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/group10/!svn/ver/74/VoidSpace2/src/rbadia/voidspace/sounds/asteroidExplosion2.wav
+END
+BeginThrusterSound.wav
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/group10/!svn/ver/68/VoidSpace2/src/rbadia/voidspace/sounds/BeginThrusterSound.wav
+END
+BulletEnemySound.wav
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/group10/!svn/ver/74/VoidSpace2/src/rbadia/voidspace/sounds/BulletEnemySound.wav
+END
+PowerUp.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/group10/!svn/ver/75/VoidSpace2/src/rbadia/voidspace/sounds/PowerUp.wav
+END
